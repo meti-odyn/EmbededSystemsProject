@@ -1,0 +1,3 @@
+[submodule "drugOrganizer"]
+	path = drugOrganizer
+	url = https://github.com/meti-odyn/drugOrganizer.git
